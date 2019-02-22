@@ -1,0 +1,11 @@
+.Card{
+    background-color: pink;
+    width: 250px;
+    padding: 10px;
+    margin: 10px;
+}
+
+/* .transs{
+    margin: 10px auto;
+    transition: 10s;
+} */
